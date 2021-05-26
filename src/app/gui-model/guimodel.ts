@@ -21,7 +21,7 @@ export class GuiModel {
                             "name": "FamilyName",
                             "width": 1,
                             "required": true
-                        },
+                        }, 
                         {
                             "id": "firstName",
                             "type": "text",
